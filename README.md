@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Manish Shrestha 👋
 
-<!--
-**manishrest05-bit/manishrest05-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | BCA Student
 
-Here are some ideas to get you started:
+I'm a Bachelor of COmputer Application (BCA) student passionate about software development and building practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and turning ideas into functional projects.
+
+💻 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: PHP
+
+Database: MySQL
+
+Tools: Git, GitHub, VS Code
+
+🚀 Featured Project
+
+Himalayan Heritage Hotel Reservation System
+
+A web-based hotel reservation system developed using PHP, MySQL, HTML, CSS, and JavaScript.
+
+🌱 Currently Learning
+
+Advanced JavaScript
+
+React.js
+
+Full-Stack Web Development
+
+Data Structures and Algorithms
+
+🎯 Career Goal
+
+To become a skilled Software Engineer by continuously learning, building projects, and improving my problem-solving skills.
+
+🤝 Connect With Me
+
+GitHub: @manishrest05-bit
+
+Always learning. Always building. Always improving. 🚀
